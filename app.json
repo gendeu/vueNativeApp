@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "icon": "./assets/nblogo.png",
+    "slug": "kitchensinkvuenative",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "vue",
+        "js",
+        "jsx",
+        "json",
+        "ts",
+        "tsx",
+        "svg",
+        "wasm"
+      ],
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "androidStatusBarColor": "#334393",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#334393"
+    },
+    "name": "kitchenSink-vue-native",
+    "version": "0.1.0",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
