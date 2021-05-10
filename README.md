@@ -1,10 +1,5 @@
 # NativeBase KitchenSink App For Vue Native
 
-REFERENCE:
-https://nativebase.io/
-https://docs.nativebase.io/
-
-
 This project was bootstrapped with [Vue Native Cli](https://github.com/GeekyAnts/vue-native-cli).
 
 ## Demo
