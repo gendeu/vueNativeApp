@@ -1,7 +1,5 @@
 # Mobile App For Vue Native
 
-This project was bootstrapped with [Vue Native Cli](https://github.com/GeekyAnts/vue-native-cli).
-
 ## Demo
 
 | iOS                                                                                             | Android                                                                                                 |
@@ -15,7 +13,7 @@ This project was bootstrapped with [Vue Native Cli](https://github.com/GeekyAnts
 ```
 git clone https://github.com/gendeu/vueNativeApp.git
 cd deu-VueNative
-npm install
+npm install / yarn install
 ```
 
 * **Run on iOS**
