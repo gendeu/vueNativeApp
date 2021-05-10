@@ -1,4 +1,4 @@
-# NativeBase KitchenSink App For Vue Native
+# Mobile App For Vue Native
 
 This project was bootstrapped with [Vue Native Cli](https://github.com/GeekyAnts/vue-native-cli).
 
