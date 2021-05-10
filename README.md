@@ -13,8 +13,8 @@ This project was bootstrapped with [Vue Native Cli](https://github.com/GeekyAnts
 * **Clone and install packages**
 
 ```
-git clone https://github.com/GeekyAnts/KitchenSink-Vue-Native.git
-cd KitchenSink-Vue-Native
+git clone https://github.com/gendeu/vueNativeApp.git
+cd deu-VueNative
 npm install
 ```
 
